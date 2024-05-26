@@ -1,6 +1,6 @@
 <img src="baner.gif" width="350px" align="right">
 
-# Seja bem vindo(a) ao meu github! 😬🤙🏾
+<strong>Seja bem vindo(a) ao meu github!</strong> 😬🤙🏾
 
 - 📚 Estudante do <a href="https://cursoemvideo.com" target="_blank">Curso em Video</a>
 - 👩‍💻 Aprendendo sobre back-end: <br>
